@@ -1,5 +1,12 @@
 # hardhat
 
+## 3.0.12
+
+### Patch Changes
+
+- 50ce3e0: Fix a bug that could lead to different builds having the same build id. Note that this version will change how every build id is computed.
+- a77c06a: Added a new minimal sample project
+
 ## 3.0.11
 
 ### Patch Changes
